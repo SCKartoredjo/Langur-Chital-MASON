@@ -1,6 +1,12 @@
-# Creating a Multi-Agent Simulation Profit Model Based on the Chital Deer and Langur Monkey.
+# MASON code for Langur-Chital model
 
-Author: Svenja Kartoredjo
+Code for the rtifial intelligence thesis: Creating a Multi-Agent Simulation Profit Model Based on the Chital Deer and Langur Monkey
 
-Year of thesis: 2018
+## Information
+
+**Author:** Svenja Kartoredjo
+
+**Department:** Artificial Intelligence 
+
+**Year of release**: 2018
 
