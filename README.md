@@ -1,6 +1,6 @@
 # MASON code for Langur-Chital model
 
-Code for the rtifial intelligence thesis: Creating a Multi-Agent Simulation Profit Model Based on the Chital Deer and Langur Monkey
+Code for the artifial intelligence thesis: *Creating a Multi-Agent Simulation Profit Model Based on the Chital Deer and Langur Monkey*
 
 ## Information
 
