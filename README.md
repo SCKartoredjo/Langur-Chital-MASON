@@ -10,3 +10,7 @@ Code for the artificial intelligence thesis: *Creating a Multi-Agent Simulation 
 
 **Year of release**: 2018
 
+## How to run the code
+
+Follow the instructions given by the MASON readme, than copy the classes from **/MASON code** into your workspace.
+
